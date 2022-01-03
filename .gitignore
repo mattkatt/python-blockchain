@@ -1,0 +1,17 @@
+# IDE
+.idea
+
+# Python cache
+__pycache__
+*/__pycache__
+
+# Course assignments
+assignments
+oop
+
+# Virtual environment
+venv
+
+# Info files
+blockchain-*.txt
+wallet-*.txt
